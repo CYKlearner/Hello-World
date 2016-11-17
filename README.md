@@ -1,2 +1,3 @@
 # Hello-World
-I begin my coding life from today.
+Hi,coding life is beginning.
+Fighting,fighter!!!
